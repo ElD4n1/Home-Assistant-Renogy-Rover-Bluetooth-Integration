@@ -2,7 +2,7 @@
   "domain": "solar_monitor",
   "name": "Solar Monitor",
   "version": "1.0",
-  "documentation": "https://github.com/Olen/solar-monitor",
+  "documentation": "https://github.com/ElD4n1/Home-Assistant-Solar-Monitor-Integration",
   "requirements": [],
   "dependencies": ["bluetooth"],
   "codeowners": ["@ElD4n1"]
