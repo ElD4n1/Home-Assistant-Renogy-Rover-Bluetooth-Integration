@@ -1,0 +1,9 @@
+﻿{
+  "domain": "solar_monitor",
+  "name": "Solar Monitor",
+  "version": "1.0",
+  "documentation": "https://github.com/Olen/solar-monitor",
+  "requirements": [],
+  "dependencies": ["bluetooth"],
+  "codeowners": ["@ElD4n1"]
+}
