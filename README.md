@@ -1,1 +1,1 @@
-# Home-Assistant-Solar-Monitor-Integration
+# Home-Assistant-Renogy-Rover-Bluetooth-Integration
