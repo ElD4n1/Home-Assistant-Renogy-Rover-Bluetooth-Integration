@@ -1,8 +1,8 @@
 ﻿{
-  "domain": "solar_monitor",
-  "name": "Solar Monitor",
+  "domain": "renogy_rover_bluetooth",
+  "name": "Renogy Rover (Bluetooth)",
   "version": "1.0",
-  "documentation": "https://github.com/ElD4n1/Home-Assistant-Solar-Monitor-Integration",
+  "documentation": "https://github.com/ElD4n1/Home-Assistant-Renogy-Rover-Bluetooth-Integration",
   "requirements": [],
   "dependencies": ["bluetooth"],
   "codeowners": ["@ElD4n1"]
