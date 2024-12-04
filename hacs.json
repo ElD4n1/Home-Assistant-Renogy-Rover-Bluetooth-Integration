@@ -1,0 +1,5 @@
+{
+    "name": "Renogy Rover Bluetooth",
+    "content_in_root": true,
+    "domains": ["sensor"]
+}
